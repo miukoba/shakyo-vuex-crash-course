@@ -1,5 +1,7 @@
 # shakyo-vuex-crash-course
 
+https://www.youtube.com/watch?v=5lVQgZzLMHc の写経
+
 ## Project setup
 ```
 yarn install
